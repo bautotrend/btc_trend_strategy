@@ -5,10 +5,10 @@
 : BTCUSDT Only, trend strategy  
 
 ## backtest result
-: (period) Recent 3-Years (2021/03 ~ 2024/02)
-: (ror-month) avg-monyhly 7%, max:19%, min:-5%(only 1-month in 36-months), (except -5%) min-ror:3%
-: (ror-cumulative) 1000% (3-year)  
-: (mdd-month) -92%  
+: (period) Recent 3-Years (2021/03 ~ 2024/02)  
+: (ror-month) avg-monyhly 7%, max:19%, min:-5%(only 1-month in 36-months), (except -5%) min-ror:3%  
+: (ror-cumulative) 1000% (3-year)   
+: (mdd-month) -92%   
 
 ## result capture
 ### 1. 3-years
