@@ -54,7 +54,7 @@
 (2023/01)
 ![2023/01](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/9656001e-a1f4-4f9e-8128-6437d271bb56)
 (2022/12)
-![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/9656001e-a1f4-4f9e-8128-6437d271bb5)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/9656001e-a1f4-4f9e-8128-6437d271bb56)
 (2022/11)
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/eb1b5219-131d-40d1-9611-fa86e282d768)
 (2022/10)
