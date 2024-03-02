@@ -12,9 +12,8 @@
 
 ## result capture
 1. 3-years
-(2023~2024)
-![](assets/161911991/d56dc5db-8111-4744-8fdd-cc596add3caf)
+![2023~2024](assets/161911991/d56dc5db-8111-4744-8fdd-cc596add3caf)  
 
-()
+
 
 3. 36-months
