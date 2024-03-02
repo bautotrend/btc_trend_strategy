@@ -27,8 +27,11 @@
 (2024/02) ror: 11%
 ![2024/02](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/60533740-f2b3-42ed-8439-a8073f8e9ddb)
 
-(2024/02) ror: 5%
+(2024/01) ror: 5%
 ![2024/02](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/fcd6ce31-598e-4f20-96c6-2ff2bdc33bcc)
+
+(2023/12) ror: 6%
+![2024/02](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/1079bc72-62c2-490c-b1b6-759cd0d965d2)
 
 
 
