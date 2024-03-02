@@ -55,7 +55,7 @@
 ![2023/01](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/9656001e-a1f4-4f9e-8128-6437d271bb56)
 (2022/12)
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/9656001e-a1f4-4f9e-8128-6437d271bb56)
-(2022/11)
+(2022/11) FTX 사태
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/eb1b5219-131d-40d1-9611-fa86e282d768)
 (2022/10)
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/da3eeb30-bde6-4f83-ad6f-e03cc7125ecb)
@@ -67,7 +67,7 @@
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/b37e70e5-b9ec-43df-9424-5e3c7b88540d)
 (2022/06)
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/9500749d-6b26-4381-a596-f5a8c564dbe8)
-(2022/05)
+(2022/05) 루나 사태
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/b0f987dd-822e-4588-b84b-ec76e6372e78)
 (2022/04)
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/a46cf3b7-d8f1-45de-9e50-fb0362d24b48)
