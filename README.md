@@ -87,3 +87,17 @@
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/322424b1-51a0-4c00-a44e-5465ebf9f730)
 (2021/09)
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/e2dbf135-3b25-48f3-964a-6429cf99b647)
+(2021/08)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/19079342-d1f2-4004-b3a0-5a5c630cc814)
+(2021/07)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/38d8cfcb-b9fc-48ca-a278-aa2857a48b0c)
+(2021/06)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/5001352b-2d07-4754-9993-5f4c6ed7b5b8)
+(2021/05)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/a47a883e-e39c-4680-8d26-5fe730da063c)
+(2021/04)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/937fb46b-e834-4c2a-be6c-23fe9772976a)
+(2021/03)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/8fac7a19-f6ef-4a26-bd10-ee1f54ffd2c0)
+
+
