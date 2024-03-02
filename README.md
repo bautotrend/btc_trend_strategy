@@ -36,6 +36,8 @@
 (2023/11) ror: 8%
 ![2023/11](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/30b7f365-f0be-48e3-88c7-ca97ef7e27fa)
 
+(2023/10) ror: 17%
+![2023/10](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/5d5d65e2-38c5-4ccc-b8ae-581e39a23860)
 
 
 
