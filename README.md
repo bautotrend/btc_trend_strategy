@@ -6,7 +6,7 @@
 
 ## backtest result
 : (period) Recent 3-Years (2021/03 ~ 2024/02)  
-: (ror-month) avg-monyhly 7%, max:19%, min:-5%(only 1-month in 36-months), (except -5%) min-ror:3%  
+: (ror-month) avg-monyhly 7%, max:19%, min:-5%(only 1-month in 36-months), (except -5%) min_ror:3%  
 : (ror-cumulative) about 900% (3-year)   
 : (mdd-month) -92%   
 
@@ -51,9 +51,27 @@
 
 (2023/02)
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/01e474fa-c2b9-4a4e-b463-61f231e7a401)
-
-
-
-
+(2023/01)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/ee0424ba-8b1a-4ded-8c21-2f960e0c0783)
+(2022/12)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/9656001e-a1f4-4f9e-8128-6437d271bb5)
+(2022/11)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/eb1b5219-131d-40d1-9611-fa86e282d768)
+(2022/10)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/da3eeb30-bde6-4f83-ad6f-e03cc7125ecb)
+(2022/09)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/b81386bc-73f9-400e-9b4c-e8fc849ac7bb)
+(2022/08)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/3519a118-b721-455e-947b-e5d11c6eb583)
+(2022/07)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/b37e70e5-b9ec-43df-9424-5e3c7b88540d)
+(2022/06)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/9500749d-6b26-4381-a596-f5a8c564dbe8)
+(2022/05)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/b0f987dd-822e-4588-b84b-ec76e6372e78)
+(2022/04)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/a46cf3b7-d8f1-45de-9e50-fb0362d24b48)
+(2022/03)
+![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/3bdf2786-ae23-4faa-b727-4c0868803e60)
 
 
