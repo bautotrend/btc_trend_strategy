@@ -71,33 +71,33 @@
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/b0f987dd-822e-4588-b84b-ec76e6372e78)
 (2022/04)
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/a46cf3b7-d8f1-45de-9e50-fb0362d24b48)
-(2022/03)
+(2022/03) ror: -5%, mdd: -25%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/3bdf2786-ae23-4faa-b727-4c0868803e60)
 
 
-(2022/02)
+(2022/02) ror: 5%, mdd: -25%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/819c7b53-a241-4b88-88a5-62e3835dde64)
-(2022/01)
+(2022/01) ror: 6%, mdd: -23%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/722ccc64-12f4-406f-a555-4ae923e749d3)
-(2021/12)
+(2021/12) ror: 8%, mdd: -13%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/e1b3d45d-274c-4527-b17c-c3a37c0a8988)
-(2021/11)
+(2021/11) ror: 6%, mdd: -33%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/7a82ccdd-0444-4dea-8629-98ed49da0b05)
-(2021/10)
+(2021/10) ror: 4%, mdd: -15%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/322424b1-51a0-4c00-a44e-5465ebf9f730)
-(2021/09)
+(2021/09) ror: 4%, mdd: -26%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/e2dbf135-3b25-48f3-964a-6429cf99b647)
-(2021/08)
+(2021/08) ror: 4%, mdd: -43%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/19079342-d1f2-4004-b3a0-5a5c630cc814)
-(2021/07)
+(2021/07) ror: 6%, mdd: -19%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/38d8cfcb-b9fc-48ca-a278-aa2857a48b0c)
-(2021/06)
+(2021/06) ror: 6%, mdd: -92%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/5001352b-2d07-4754-9993-5f4c6ed7b5b8)
-(2021/05)
+(2021/05) ror: 11%, mdd: -40%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/a47a883e-e39c-4680-8d26-5fe730da063c)
-(2021/04)
+(2021/04) ror: 9%, mdd: -38%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/937fb46b-e834-4c2a-be6c-23fe9772976a)
-(2021/03)
+(2021/03) ror: 4%, mdd: -12%
 ![2023/03](https://github.com/bautotrend/btc_trend_strategy/assets/161911991/8fac7a19-f6ef-4a26-bd10-ee1f54ffd2c0)
 
 
