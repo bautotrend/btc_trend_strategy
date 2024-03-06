@@ -6,7 +6,7 @@
 
 ## backtest result
 : (period) Recent 3-Years (2021/03 ~ 2024/02)  
-: (ror-month) avg-monyhly 7%, max:19%, min:-5%(only 1-month in 36-months), (except -5%) min_ror:3%  
+: (ror-month) avg-monyhly 7%, max:19%, min:-5%(only 1-month in 36-months), (except -5%) min_ror:1%  
 : (ror-cumulative) about 900% (3-year)   
 : (mdd-month) -92%   
 
